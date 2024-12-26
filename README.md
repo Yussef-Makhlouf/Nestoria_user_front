@@ -1,70 +1,115 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Nestoria User Front
 
-## Available Scripts
+## Description
+Nestoria is a multi-vendor online marketplace specializing in furniture and home decor. This project is built using React for the front end and Node.js for the back end.
 
-In the project directory, you can run:
+## Project Homepage
+You can visit the project homepage at [Nestoria User Front](https://nestoria-user-front.vercel.app).
 
-### `npm start`
+## Table of Contents
+- [Description](#description)
+- [Project Homepage](#project-homepage)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installation
+To set up this project locally, follow these steps:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Yussef-Makhlouf/Nestoria_user_front.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd Nestoria_user_front
+    ```
+3. Install the dependencies:
+    ```bash
+    npm install
+    ```
 
-### `npm test`
+## Usage
+To start the development server, run:
+```bash
+npm start
+```
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser. The page will reload when you make changes. You may also see any lint errors in the console.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To launch the test runner in the interactive watch mode, run:
+```bash
+npm test
+```
+For more information, see the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests).
 
-### `npm run build`
+To build the app for production, run:
+```bash
+npm run build
+```
+It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes. Your app is ready to be deployed! For more information, see the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
+If you need to eject the project to have full control over the configuration, run:
+```bash
+npm run eject
+```
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Features
+- Multi-vendor support
+- Responsive design
+- Modern and clean user interface
+- Easy navigation
+- Built with React and Node.js
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Contributing
+Contributions are welcome! To contribute, follow these steps:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Fork the repository.
+2. Create a new branch:
+    ```bash
+    git checkout -b feature-branch
+    ```
+3. Make your changes and commit them:
+    ```bash
+    git commit -m 'Add some feature'
+    ```
+4. Push to the branch:
+    ```bash
+    git push origin feature-branch
+    ```
+5. Open a pull request.
 
-## Learn More
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+MIT License
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-### Code Splitting
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
 
-### Analyzing the Bundle Size
+## Contact
+If you have any questions or feedback, feel free to reach out to [Yussef Makhlouf](https://github.com/Yussef-Makhlouf).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to modify this draft as needed! If you have any additional information or specific sections you want to include, please let me know.
